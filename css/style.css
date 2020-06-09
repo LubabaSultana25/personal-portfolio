@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0px;
+}
+body{
+   font-family: 'Abel', sans-serif;
+}
+p{
+    color: dimgray;
+    font-size: 20px;
+}
+section{
+    height: 450px;
+    padding-bottom: 100px;
+}
+.banner-top{
+    background-image: url(../images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-top: 2%;
+    margin-left: 5%;
+}
+
+
+.half-width h2{
+    padding-top: 80px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.half-width img{
+    width: 100%;
+    
+}
+.color-highlight{
+    color: hotpink;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Signika', sans-serif;
+    letter-spacing: 1px;
+
+}
+.button{
+    border: none;
+    text-decoration: none;
+    color: white;
+    margin-top: 25px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(#b91d73, #f953c6);
+    font-family: 'Signika', sans-serif;
+
+
+}
+.biography-part{
+    background-image: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.last-work{
+    background-image: url(../images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.last-work h1{
+    padding-top: 40px;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+.images img{
+    width: 30%;
+    padding:30px 20px 0px 15px;
+}
+.client-bg{
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client-attantion h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Signika', sans-serif;
+    padding-top: 50px;
+
+
+
+}
+.Client-name h3{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.Client-name p{
+    text-align: center;
+}
+.second-pera{
+    padding-top: 20px;
+    font-weight: 500;
+}
+
+
+.feedback-mail {
+  padding: 30px 0px 0px 30px;
+  text-align: center;
+  margin-left: 35%;
+    
+}
+
+.feedback{
+    height: 100px;
+    width: 400px;
+    background-color:#b91d73;
+    color:white;
+    border-radius: 10px;
+    text-align:center !important;
+}
+.feedback p{
+    color: white;
+    font-size: 20px;
+}
+.feedback a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+
+}
+.end-part{
+    text-align: center;
+}
